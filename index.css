@@ -1,0 +1,140 @@
+.myco{
+     padding-left: 20%;
+     padding-right: 25%;
+}
+
+#fd1{
+     text-align: left;
+     display: inline-block;
+     padding-left: 10%;
+}
+
+#fnum1{
+     
+     color: #b5aa8e;
+     font-size: 80px;
+     font-family: 'Times New Roman';
+}
+
+#fnam1{
+     font-size: 9px;
+     width: 100px;
+     margin-top: -5%;
+     margin-left: 20%;
+     text-align: center;
+}
+
+#fd2{
+     float: right;
+}
+
+#fnum2{
+     color: #b5aa8e;
+     font-size: 80px;
+     font-family: 'Times New Roman';
+}
+
+#fnam2{
+     font-size: 9px;
+     width: 100px;
+     margin-top: -5%;
+     margin-left: 20%;
+     text-align: center;
+}
+
+#fd3{
+     text-align: center;
+     margin-top: 2%;
+}
+
+#fnum3{
+     color: #b5aa8e;
+     font-size: 80px;
+     font-family: 'Times New Roman';
+}
+
+#fnam3{
+     font-size: 9px;
+     width: 100px;
+     margin-top: -1%;
+     margin-left: auto;
+     margin-right: auto;
+}
+
+#ofot{
+     font-weight: bold;
+     margin-top: 8%;
+     padding-left: 10%;
+}
+
+.ofot1{
+     padding-left: 10%;
+     width: 280px;
+     font-size: 10px;
+}
+
+#ofri{
+     margin-right: 8%;
+}
+
+#ofrip{
+     float: right;
+     margin-top: -50%;
+}
+
+#fnum4{
+     color: #b5aa8e;
+     font-size: 75px;
+     font-family: 'Times New Roman';
+     text-align: center;
+}
+
+#fnam4{
+     font-size: 8px;
+     margin-top: -5%;
+     text-align: center;
+}
+
+#fnum5{
+     color: #b5aa8e;
+     font-size: 75px;
+     font-family: 'Times New Roman';
+}
+
+#fnam5{
+     font-size: 8px;
+     margin-top: -5%;
+     text-align: center;
+}
+
+#rtbd{
+     border-left-color: black;
+     border-left-width: 2px;
+     border-left-style: solid;
+     position: absolute;
+     margin-top: -44.5%;
+     margin-left: 77%;
+}
+
+#rtbdnam{
+     width: 50px;
+     font-size: 10px;
+     font-weight: bold;
+     margin-left: 8%;
+     line-height: 12px;
+}
+
+#rtnum{
+     font-weight: bold;
+}
+
+.rtbdnum{
+     margin-bottom: 2%;
+     margin-left: 11%;
+     border-color: black;
+     border-width: 1px;
+     border-style: solid;
+     border-radius: 50%;
+     font-size: 10px;
+}
+
